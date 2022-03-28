@@ -1,0 +1,46 @@
+.centered {
+    text-align: center;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.green-text {
+    color: green;
+}
+
+.big-text, .orange-text {
+    font-size: 50px;
+}
+
+.tiny-text {
+    font-size: 10px;
+}
+
+.bold-text, .orange-text, .styledFont {
+    font-weight: bold;
+}
+
+.d-font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.styledFont {
+    color: green;
+    font-size: larger;
+}
+
+#styledImage {
+    border-style: solid;
+    border-width: 8px;
+    border-color: orange;
+}
